@@ -16,6 +16,7 @@ toc-depth: 2
 header-includes:
 - \usepackage{fancyhdr}
 ---
+\pagestyle{fancy}
 \fancypagestyle{plain}{\pagestyle{fancy}}
 \fancyhead[LO,LE]{Morris}
 \fancyhead[RO,RE]{Assignment 6}
